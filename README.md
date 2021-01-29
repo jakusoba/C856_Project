@@ -1,4 +1,5 @@
-# C856_Project
+# User Experience & Interface Design Project
+
 Created a new website that will increase tourism on the island of Taniti and provide a welcoming experience for prospective tourists.
 
 
